@@ -1,0 +1,14 @@
+layout_spectrum: 0.34451291314326227
+typography_spectrum: 0.4341776305809617
+color:
+  brandStrength: 0.24450163100846112
+  lightness: 0.3025916370097548
+  saturation: 0.6168932204600424
+  rhythmicContrast: 0.47155428654514253
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: sendchampagne
